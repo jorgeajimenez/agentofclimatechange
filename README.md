@@ -1,6 +1,6 @@
 # Weaviate Weather Project 🏆
 
-GitHub Hack Nigh (05/27/2025): Awarded **Best use of Weaviate**!
+GitHub Hack Night (05/27/2025): Awarded **Best use of Weaviate**!
 
 ## What it does
 
